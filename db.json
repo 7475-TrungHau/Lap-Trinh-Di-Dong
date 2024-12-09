@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Khám phá thế giới",
+    "body": "Hành trình khám phá những vùng đất mới đầy thú vị.",
+    "backgroundImage": "https://example.com/images/poster1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Ẩm thực đường phố",
+    "body": "Thưởng thức những món ăn ngon độc đáo từ khắp nơi trên thế giới.",
+    "backgroundImage": "https://example.com/images/poster2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lễ hội âm nhạc",
+    "body": "Cùng hòa mình vào không khí sôi động của lễ hội âm nhạc.",
+    "backgroundImage": "https://example.com/images/poster3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Du lịch biển",
+    "body": "Tận hưởng những giây phút thư giãn trên bãi biển tuyệt đẹp.",
+    "backgroundImage": "https://example.com/images/poster4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Văn hóa truyền thống",
+    "body": "Khám phá những nét đẹp văn hóa truyền thống độc đáo.",
+    "backgroundImage": "https://example.com/images/poster5.jpg"
+  }
+]
